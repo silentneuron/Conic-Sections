@@ -24,6 +24,8 @@ An interactive Python visualization showing how different conic sections — **c
 | β > α | Plane steeper than cone | **Hyperbola** |
 | β = 0 | Plane perpendicular to cone axis | **Circle** |
 
+## Source: Class 11 NCERT Textbook
+
 ---
 
 ## Requirements
