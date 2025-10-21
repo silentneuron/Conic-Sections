@@ -1,4 +1,4 @@
-#Conic Section
+# Conic Section
 
 
 An interactive Python visualization showing how different conic sections — **circle**, **ellipse**, **parabola**, and **hyperbola** — are formed when a **plane cuts a double cone**.
